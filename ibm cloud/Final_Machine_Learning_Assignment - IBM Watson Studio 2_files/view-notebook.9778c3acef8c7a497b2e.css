@@ -1,0 +1,2177 @@
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.ErrorPage__errorPage___7ZSi2 .ErrorPage__topWrapper___2BaR3 {
+  padding: 2rem 6.75rem 2rem;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-bottom: 1px solid #8897A2;
+  margin-bottom: 1rem;
+  flex: 0 0 auto;
+  -webkit-box-flex: 0 0 auto;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto; }
+  .ErrorPage__errorPage___7ZSi2 .ErrorPage__topWrapper___2BaR3 .ErrorPage__errorTitle___1VRga {
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.25;
+    margin: 0; }
+
+.ErrorPage__errorPage___7ZSi2 .ErrorPage__description___u9Fp1,
+.ErrorPage__errorPage___7ZSi2 .ErrorPage__errorDetailsBox___J6ryS {
+  margin: 1rem 0;
+  padding-left: 6.75rem;
+  max-width: 50em; }
+
+.ErrorPage__errorPage___7ZSi2 .ErrorPage__errorDetailsBox___J6ryS p {
+  margin: 1rem 0; }
+
+.ErrorPage__errorPage___7ZSi2 .ErrorPage__errorDetailsBox___J6ryS .ErrorPage__errorDetailsTitle___3CIvp {
+  color: #3D70B2;
+  -webkit-transition: color 0.15s ease-out 0s;
+  transition: color 0.15s ease-out 0s;
+  border: none;
+  cursor: pointer; }
+  .ErrorPage__errorPage___7ZSi2 .ErrorPage__errorDetailsBox___J6ryS .ErrorPage__errorDetailsTitle___3CIvp:hover, .ErrorPage__errorPage___7ZSi2 .ErrorPage__errorDetailsBox___J6ryS .ErrorPage__errorDetailsTitle___3CIvp:focus, .ErrorPage__errorPage___7ZSi2 .ErrorPage__errorDetailsBox___J6ryS .ErrorPage__errorDetailsTitle___3CIvp:active {
+    color: #5596E6; }
+
+.ErrorPage__errorPage___7ZSi2 .ErrorPage__errorDetailsBox___J6ryS .ErrorPage__errorDetailsContent___Uedtk {
+  visibility: hidden; }
+
+.ErrorPage__errorPage___7ZSi2 .ErrorPage__errorDetailsBox___J6ryS.ErrorPage__enabled___qZOew .ErrorPage__errorDetailsTitle___3CIvp {
+  border-bottom: 2px solid transparent;
+  border-color: #3D70B2; }
+
+.ErrorPage__errorPage___7ZSi2 .ErrorPage__errorDetailsBox___J6ryS.ErrorPage__enabled___qZOew .ErrorPage__errorDetailsContent___Uedtk {
+  visibility: visible; }
+
+.bx--skeleton__text {
+  background: #F6F6F6 !important; }
+  .bx--skeleton__text::before {
+    background: #FFFFFF !important; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.ErrorPage-icp4d__errorPage___2e4RY .ErrorPage-icp4d__topWrapper___GGbye {
+  padding: 2rem 6.75rem 2rem;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-bottom: 1px solid #8897A2;
+  margin-bottom: 1rem;
+  flex: 0 0 auto;
+  -webkit-box-flex: 0 0 auto;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto; }
+  .ErrorPage-icp4d__errorPage___2e4RY .ErrorPage-icp4d__topWrapper___GGbye .ErrorPage-icp4d__errorTitle___3V88l {
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.25;
+    margin: 0; }
+
+.ErrorPage-icp4d__errorPage___2e4RY .ErrorPage-icp4d__description___2tQgr,
+.ErrorPage-icp4d__errorPage___2e4RY .ErrorPage-icp4d__errorDetailsBox___3Nktm {
+  margin: 1rem 0;
+  padding-left: 6.75rem;
+  max-width: 50em; }
+
+.ErrorPage-icp4d__errorPage___2e4RY .ErrorPage-icp4d__errorDetailsBox___3Nktm p {
+  margin: 1rem 0; }
+
+.ErrorPage-icp4d__errorPage___2e4RY .ErrorPage-icp4d__errorDetailsBox___3Nktm .ErrorPage-icp4d__errorDetailsTitle___2Vda9 {
+  color: #A91560;
+  -webkit-transition: color 0.15s ease-out 0s;
+  transition: color 0.15s ease-out 0s;
+  border: none;
+  cursor: pointer; }
+  .ErrorPage-icp4d__errorPage___2e4RY .ErrorPage-icp4d__errorDetailsBox___3Nktm .ErrorPage-icp4d__errorDetailsTitle___2Vda9:hover, .ErrorPage-icp4d__errorPage___2e4RY .ErrorPage-icp4d__errorDetailsBox___3Nktm .ErrorPage-icp4d__errorDetailsTitle___2Vda9:focus, .ErrorPage-icp4d__errorPage___2e4RY .ErrorPage-icp4d__errorDetailsBox___3Nktm .ErrorPage-icp4d__errorDetailsTitle___2Vda9:active {
+    color: #831B4C; }
+
+.ErrorPage-icp4d__errorPage___2e4RY .ErrorPage-icp4d__errorDetailsBox___3Nktm .ErrorPage-icp4d__errorDetailsContent___FryBj {
+  visibility: hidden; }
+
+.ErrorPage-icp4d__errorPage___2e4RY .ErrorPage-icp4d__errorDetailsBox___3Nktm.ErrorPage-icp4d__enabled___2Tz1Q .ErrorPage-icp4d__errorDetailsTitle___2Vda9 {
+  border-bottom: 2px solid transparent;
+  border-color: #A91560; }
+
+.ErrorPage-icp4d__errorPage___2e4RY .ErrorPage-icp4d__errorDetailsBox___3Nktm.ErrorPage-icp4d__enabled___2Tz1Q .ErrorPage-icp4d__errorDetailsContent___FryBj {
+  visibility: visible; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.NotebookWrapper__alertContainer___qk4FH {
+  height: 55px;
+  position: fixed;
+  width: 100%;
+  z-index: 6; }
+
+.NotebookWrapper__alert___1AXuT {
+  margin: 0;
+  background-color: #FFFFFF; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.bx--skeleton__text {
+  background: #F6F6F6 !important; }
+  .bx--skeleton__text::before {
+    background: #FFFFFF !important; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.NotebookWrapper-icp4d__alertContainer___2T0Sv {
+  height: 55px;
+  position: fixed;
+  width: 100%;
+  z-index: 6; }
+
+.NotebookWrapper-icp4d__alert___2R-Rh {
+  margin: 0;
+  background-color: #FFFFFF; }
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.Modals__watsonModal___Rdpl3.is-visible {
+  z-index: 30000; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+.Alert__alert___SFCiD .Alert__message___8JIuQ {
+  line-height: 1.5; }
+
+.Alert__alert___SFCiD .Alert__message___8JIuQ span {
+  line-height: 1.5; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+.ConfirmationModal__confirmation___22VZE .ConfirmationModal__message___1GLIO {
+  line-height: 1.5; }
+
+.ConfirmationModal__confirmation___22VZE .ConfirmationModal__message___1GLIO span {
+  line-height: 1.5; }
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.NotebookSharingModal__modalContainer___lDura {
+  min-width: 60%;
+  width: 60%; }
+
+.NotebookSharingModal__title___1fNOo {
+  font-weight: 200;
+  margin-bottom: 2rem; }
+
+.NotebookSharingModal__intro___3LyV- {
+  margin: 0; }
+
+.NotebookSharingModal__form___3jnHU {
+  font-size: 1rem;
+  margin-left: 2rem; }
+
+.NotebookSharingModal__form___3jnHU .NotebookSharingModal__contentFilters___RvsUL {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: start; }
+
+.NotebookSharingModal__form___3jnHU .NotebookSharingModal__contentFilters___RvsUL .NotebookSharingModal__contentFilterOption___10S-T {
+  margin: 0.5rem 0; }
+
+.NotebookSharingModal__form___3jnHU > div {
+  margin: 1rem 0; }
+
+.NotebookSharingModal__blockLabel___Kdxam {
+  font-weight: 500; }
+
+.NotebookSharingModal__conclusion___34rgg {
+  position: relative;
+  margin: 1rem 0 0 2rem;
+  padding-left: 2rem;
+  font-size: 0.875rem; }
+
+.NotebookSharingModal__conclusion___34rgg svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px; }
+
+.NotebookSharingModal__conclusion___34rgg > .NotebookSharingModal__conclusionHeader___GiqEa {
+  font-weight: 600;
+  padding: 0.5em; }
+
+.NotebookSharingModal__disclaimer___eq7k3 {
+  position: relative;
+  font-size: 0.75rem; }
+
+.NotebookSharingModal__disclaimer___eq7k3 .NotebookSharingModal__hidden___19Hfg {
+  display: none; }
+
+.NotebookSharingModal__social___3aBuX {
+  position: relative;
+  margin: 1rem 0 0;
+  padding-left: 2rem;
+  font-size: 1rem; }
+
+.NotebookSharingModal__social___3aBuX svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px; }
+
+.NotebookSharingModal__social___3aBuX > .NotebookSharingModal__socialHeader___2ZkEe {
+  font-weight: 600;
+  padding: 0.5em; }
+
+.NotebookSharingModal__socialLogo___3NYhE {
+  max-height: 3rem;
+  max-width: 4rem; }
+
+.NotebookSharingModal__copyURLIcon___2WPMI {
+  display: inline-block; }
+
+.NotebookSharingModal__copyURL___2Yhtr {
+  height: 1.5rem;
+  width: 1.5rem;
+  margin-left: 1rem;
+  vertical-align: middle; }
+
+.NotebookSharingModal__shareWrapper___j2-TX {
+  margin-top: 0; }
+
+.NotebookSharingModal__toggle___x6H8p {
+  margin-left: -0.5rem; }
+
+.NotebookSharingModal__toggle___x6H8p > .NotebookSharingModal__toggleControl___2ab4f {
+  display: inline-block;
+  vertical-align: middle; }
+
+.NotebookSharingModal__toggle___x6H8p > .NotebookSharingModal__toggleControl___2ab4f > .NotebookSharingModal__shareToggle___ZKT9G {
+  margin-left: 0; }
+
+.NotebookSharingModal__toggle___x6H8p > .NotebookSharingModal__toggleLabel___1LJfH {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 1rem; }
+
+.NotebookSharingModal__sharingURL___3Bp8p {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 1rem 0 0;
+  width: 90%; }
+
+.NotebookSharingModal__sharingURL___3Bp8p > .NotebookSharingModal__sharingUrlBox___3ZjMd {
+  margin-top: 0.5rem; }
+
+.NotebookSharingModal__sharingURL___3Bp8p input[type="text"] {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 90%;
+  border: solid 1px;
+  border-radius: 0;
+  border-color: #777677;
+  padding: 0.5rem;
+  font-weight: 100;
+  color: #777677; }
+
+.NotebookSharingModal__enabledURL___1mvdj input[type="text"] {
+  color: #1d3458;
+  border-color: #1d3458;
+  font-weight: 400; }
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.NotebookUnlockModal__header___1HM6x {
+  font-size: 2.563em;
+  padding-bottom: 14px;
+  padding-top: 40px; }
+
+.NotebookUnlockModal__iconWarning___2N5EK {
+  width: 32px;
+  height: 32px;
+  margin-right: 25px; }
+
+.NotebookUnlockModal__modalDescription___1Yt9N {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: 14px; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2019
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+.ItemSelectionModal__watsonModal___3VHYL.is-visible {
+  z-index: 30000; }
+
+.ItemSelectionModal__modalContainer___3gbRu {
+  min-width: 18rem; }
+
+.ItemSelectionModal__modalBody___Iotkh {
+  overflow: initial; }
+
+.ItemSelectionModal__descriptionContainer___1dgvE {
+  padding-bottom: 1rem; }
+
+.ItemSelectionModal__tileGroup___10zUb {
+  max-height: 250px;
+  min-width: 30rem; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2016, 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.RotatingCloseButton__closePanelButton___3Wu0e {
+  background: #3D70B2;
+  width: 30px;
+  height: 30px;
+  border-radius: 40px;
+  z-index: 700;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
+  .RotatingCloseButton__closePanelButton___3Wu0e svg {
+    width: 10px;
+    height: 10px;
+    fill: #FFFFFF;
+    -webkit-transition: -webkit-transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+    transition: -webkit-transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+    transition: transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+    transition: transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1), -webkit-transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1); }
+
+.RotatingCloseButton__closePanelButton___3Wu0e:hover {
+  cursor: pointer; }
+  .RotatingCloseButton__closePanelButton___3Wu0e:hover > svg {
+    -webkit-transform: rotate(-90deg);
+            transform: rotate(-90deg); }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2016, 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.bx--skeleton__text {
+  background: #F6F6F6 !important; }
+  .bx--skeleton__text::before {
+    background: #FFFFFF !important; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2016, 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.RotatingCloseButton-icp4d__closePanelButton___2FXPS {
+  background: #A91560;
+  width: 30px;
+  height: 30px;
+  border-radius: 40px;
+  z-index: 700;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
+  .RotatingCloseButton-icp4d__closePanelButton___2FXPS svg {
+    width: 10px;
+    height: 10px;
+    fill: #FFFFFF;
+    -webkit-transition: -webkit-transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+    transition: -webkit-transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+    transition: transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+    transition: transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1), -webkit-transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1); }
+
+.RotatingCloseButton-icp4d__closePanelButton___2FXPS:hover {
+  cursor: pointer; }
+  .RotatingCloseButton-icp4d__closePanelButton___2FXPS:hover > svg {
+    -webkit-transform: rotate(-90deg);
+            transform: rotate(-90deg); }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.bx--skeleton__text {
+  background: #F6F6F6 !important; }
+  .bx--skeleton__text::before {
+    background: #FFFFFF !important; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.Avatar-icp4d__profilePicWrapper___1XZyG {
+  flex: 0 0 auto;
+  -webkit-box-flex: 0 0 auto;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  min-width: 2.125rem;
+  width: 10%;
+  padding-bottom: 0.4rem; }
+
+.Avatar-icp4d__profilePic___L8yu4 {
+  border: 1px solid #000000;
+  border-radius: 50%;
+  height: 2.125rem;
+  width: 2.125rem; }
+
+.Avatar-icp4d__iconProfile___36yJ0 {
+  border-radius: 50%;
+  fill: #8897A2;
+  width: 2.3em;
+  height: 2.3em; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.Avatar__profilePicWrapper___3m6xS {
+  flex: 0 0 auto;
+  -webkit-box-flex: 0 0 auto;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  min-width: 2.125rem;
+  width: 10%;
+  padding-bottom: 0.4rem; }
+
+.Avatar__profilePic___yrjaH {
+  border: 1px solid #000000;
+  border-radius: 50%;
+  height: 2.125rem;
+  width: 2.125rem; }
+
+.Avatar__iconProfile___LUyXP {
+  border-radius: 50%;
+  fill: #8897A2;
+  width: 2.3em;
+  height: 2.3em; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.bx--skeleton__text {
+  background: #F6F6F6 !important; }
+  .bx--skeleton__text::before {
+    background: #FFFFFF !important; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.CommentTextArea-icp4d__textAreaStyle___1J1K- {
+  height: 2.5rem;
+  resize: none; }
+
+.CommentTextArea-icp4d__hiddenDiv___1CCdw {
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+  min-height: 2.5rem;
+  position: absolute;
+  visibility: hidden;
+  display: none; }
+
+.CommentTextArea-icp4d__textAreaStyle___1J1K-, .CommentTextArea-icp4d__hiddenDiv___1CCdw {
+  width: 100%;
+  margin: 0;
+  border: 0.125rem solid #5A6872;
+  padding: 0.5em;
+  line-height: 1.68; }
+
+.CommentTextArea-icp4d__inputText___2XRCU {
+  font-size: inherit;
+  font-family: inherit;
+  overflow: hidden; }
+  .CommentTextArea-icp4d__inputText___2XRCU::-webkit-input-placeholder {
+    opacity: 1; }
+  .CommentTextArea-icp4d__inputText___2XRCU:-moz-placeholder {
+    opacity: 1; }
+  .CommentTextArea-icp4d__inputText___2XRCU::-moz-placeholder {
+    opacity: 1; }
+  .CommentTextArea-icp4d__inputText___2XRCU:-ms-input-placeholder {
+    opacity: 1; }
+
+.CommentTextArea-icp4d__relativeContainer___1jSJQ {
+  position: relative; }
+
+.CommentTextArea-icp4d__userListContainer___1zntS {
+  position: relative;
+  width: 100%; }
+  .CommentTextArea-icp4d__userListContainer___1zntS .CommentTextArea-icp4d__userListWrapper___1J0QP {
+    z-index: 20;
+    width: 100%;
+    max-height: 12rem;
+    position: absolute;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: #FFFFFF;
+    -webkit-box-shadow: 0 4px 8px 0 #F9F9F9;
+            box-shadow: 0 4px 8px 0 #F9F9F9; }
+    .CommentTextArea-icp4d__userListContainer___1zntS .CommentTextArea-icp4d__userListWrapper___1J0QP .CommentTextArea-icp4d__userItem___1EvXz {
+      cursor: pointer; }
+      .CommentTextArea-icp4d__userListContainer___1zntS .CommentTextArea-icp4d__userListWrapper___1J0QP .CommentTextArea-icp4d__userItem___1EvXz .CommentTextArea-icp4d__userItemDetails____n7wg {
+        padding: 0.5rem 0.8rem;
+        display: flex;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+                flex-direction: column;
+        -webkit-box-flex-direction: column;
+        -ms-flex-direction: column; }
+        .CommentTextArea-icp4d__userListContainer___1zntS .CommentTextArea-icp4d__userListWrapper___1J0QP .CommentTextArea-icp4d__userItem___1EvXz .CommentTextArea-icp4d__userItemDetails____n7wg .CommentTextArea-icp4d__userIdWrapper___uKz4K {
+          font-size: 0.6rem;
+          color: #595859; }
+      .CommentTextArea-icp4d__userListContainer___1zntS .CommentTextArea-icp4d__userListWrapper___1J0QP .CommentTextArea-icp4d__userItem___1EvXz.CommentTextArea-icp4d__selectedUser___19IMP {
+        background-color: #A91560;
+        color: #FFFFFF; }
+        .CommentTextArea-icp4d__userListContainer___1zntS .CommentTextArea-icp4d__userListWrapper___1J0QP .CommentTextArea-icp4d__userItem___1EvXz.CommentTextArea-icp4d__selectedUser___19IMP .CommentTextArea-icp4d__userIdWrapper___uKz4K {
+          color: #FFFFFF; }
+    .CommentTextArea-icp4d__userListContainer___1zntS .CommentTextArea-icp4d__userListWrapper___1J0QP.CommentTextArea-icp4d__withBorder___3ulQX {
+      border: 0.8px solid #8897A2; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.CommentTextArea__textAreaStyle___I0NbS {
+  height: 2.5rem;
+  resize: none; }
+
+.CommentTextArea__hiddenDiv___wcnaG {
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+  min-height: 2.5rem;
+  position: absolute;
+  visibility: hidden;
+  display: none; }
+
+.CommentTextArea__textAreaStyle___I0NbS, .CommentTextArea__hiddenDiv___wcnaG {
+  width: 100%;
+  margin: 0;
+  border: 0.125rem solid #5A6872;
+  padding: 0.5em;
+  line-height: 1.68; }
+
+.CommentTextArea__inputText___134FJ {
+  font-size: inherit;
+  font-family: inherit;
+  overflow: hidden; }
+  .CommentTextArea__inputText___134FJ::-webkit-input-placeholder {
+    opacity: 1; }
+  .CommentTextArea__inputText___134FJ:-moz-placeholder {
+    opacity: 1; }
+  .CommentTextArea__inputText___134FJ::-moz-placeholder {
+    opacity: 1; }
+  .CommentTextArea__inputText___134FJ:-ms-input-placeholder {
+    opacity: 1; }
+
+.CommentTextArea__relativeContainer___20mJQ {
+  position: relative; }
+
+.CommentTextArea__userListContainer___2G-BD {
+  position: relative;
+  width: 100%; }
+  .CommentTextArea__userListContainer___2G-BD .CommentTextArea__userListWrapper___jtaRS {
+    z-index: 20;
+    width: 100%;
+    max-height: 12rem;
+    position: absolute;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: #FFFFFF;
+    -webkit-box-shadow: 0 4px 8px 0 #F4F7FB;
+            box-shadow: 0 4px 8px 0 #F4F7FB; }
+    .CommentTextArea__userListContainer___2G-BD .CommentTextArea__userListWrapper___jtaRS .CommentTextArea__userItem___2GeEn {
+      cursor: pointer; }
+      .CommentTextArea__userListContainer___2G-BD .CommentTextArea__userListWrapper___jtaRS .CommentTextArea__userItem___2GeEn .CommentTextArea__userItemDetails___2ljJh {
+        padding: 0.5rem 0.8rem;
+        display: flex;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+                flex-direction: column;
+        -webkit-box-flex-direction: column;
+        -ms-flex-direction: column; }
+        .CommentTextArea__userListContainer___2G-BD .CommentTextArea__userListWrapper___jtaRS .CommentTextArea__userItem___2GeEn .CommentTextArea__userItemDetails___2ljJh .CommentTextArea__userIdWrapper___ONM1- {
+          font-size: 0.6rem;
+          color: #5A6872; }
+      .CommentTextArea__userListContainer___2G-BD .CommentTextArea__userListWrapper___jtaRS .CommentTextArea__userItem___2GeEn.CommentTextArea__selectedUser___UHTy3 {
+        background-color: #3D70B2;
+        color: #FFFFFF; }
+        .CommentTextArea__userListContainer___2G-BD .CommentTextArea__userListWrapper___jtaRS .CommentTextArea__userItem___2GeEn.CommentTextArea__selectedUser___UHTy3 .CommentTextArea__userIdWrapper___ONM1- {
+          color: #FFFFFF; }
+    .CommentTextArea__userListContainer___2G-BD .CommentTextArea__userListWrapper___jtaRS.CommentTextArea__withBorder___2dDQj {
+      border: 0.8px solid #8897A2; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.bx--skeleton__text {
+  background: #F6F6F6 !important; }
+  .bx--skeleton__text::before {
+    background: #FFFFFF !important; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.Comment-icp4d__commentWrapper___1c14B {
+  width: 100%; }
+  .Comment-icp4d__commentWrapper___1c14B.Comment-icp4d__owned___VtZ2p:hover {
+    background-color: #F9F9F9; }
+    .Comment-icp4d__commentWrapper___1c14B.Comment-icp4d__owned___VtZ2p:hover .Comment-icp4d__commentHeaderWrapper___19yWT .Comment-icp4d__commentButton___2PTV2 {
+      visibility: visible; }
+  .Comment-icp4d__commentWrapper___1c14B.Comment-icp4d__selectedComment___yutvr {
+    background-color: #F9F9F9; }
+    .Comment-icp4d__commentWrapper___1c14B.Comment-icp4d__selectedComment___yutvr .Comment-icp4d__commentButton___2PTV2 {
+      visibility: visible; }
+  .Comment-icp4d__commentWrapper___1c14B.Comment-icp4d__referencedComment___16InB {
+    background-color: #F9F9F9; }
+  .Comment-icp4d__commentWrapper___1c14B .Comment-icp4d__commentContentBlock___lwtI4 {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    -webkit-box-flex-direction: row;
+    -ms-flex-direction: row;
+    -webkit-box-align: start;
+            align-items: flex-start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    padding: 0.9rem 1.25rem; }
+  .Comment-icp4d__commentWrapper___1c14B .Comment-icp4d__commentContentWrapper___374Kg {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    -webkit-box-flex-direction: column;
+    -ms-flex-direction: column;
+    padding-left: 1.25rem;
+    width: 87%; }
+  .Comment-icp4d__commentWrapper___1c14B .Comment-icp4d__commentHeaderWrapper___19yWT {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    -webkit-box-flex-direction: row;
+    -ms-flex-direction: row;
+    -webkit-box-align: center;
+            align-items: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    -webkit-box-pack: justify;
+            justify-content: space-between;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify; }
+    .Comment-icp4d__commentWrapper___1c14B .Comment-icp4d__commentHeaderWrapper___19yWT .Comment-icp4d__commentAuthor___luCzk {
+      flex: 0 1 auto;
+      -webkit-box-flex: 0 1 auto;
+      -webkit-flex: 0 1 auto;
+      -ms-flex: 0 1 auto;
+      font-weight: 600;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap; }
+    .Comment-icp4d__commentWrapper___1c14B .Comment-icp4d__commentHeaderWrapper___19yWT .Comment-icp4d__commentTime___3tyiz {
+      flex: 1 0 auto;
+      -webkit-box-flex: 1 0 auto;
+      -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+      white-space: nowrap;
+      padding-left: 0.5rem;
+      font-size: 0.65rem;
+      color: #595859; }
+    .Comment-icp4d__commentWrapper___1c14B .Comment-icp4d__commentHeaderWrapper___19yWT .Comment-icp4d__commentButton___2PTV2 {
+      visibility: hidden;
+      margin: 0 0.125rem; }
+      .Comment-icp4d__commentWrapper___1c14B .Comment-icp4d__commentHeaderWrapper___19yWT .Comment-icp4d__commentButton___2PTV2 .Comment-icp4d__iconStyle___10t9F {
+        fill: currentColor; }
+  .Comment-icp4d__commentWrapper___1c14B .Comment-icp4d__commentTextWrapper___XOYs8 {
+    padding-top: 0.3rem;
+    white-space: pre-line;
+    word-wrap: break-word; }
+  .Comment-icp4d__commentWrapper___1c14B .Comment-icp4d__commentEditTextAreaContainer___1tMVO {
+    padding-top: 0.3rem;
+    width: 100%; }
+  .Comment-icp4d__commentWrapper___1c14B .Comment-icp4d__buttonsBar___20TY0 {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    -webkit-box-flex-direction: row;
+    -ms-flex-direction: row;
+    -webkit-box-align: center;
+            align-items: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    -webkit-box-pack: end;
+            justify-content: flex-end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    padding-top: 0.625rem; }
+    .Comment-icp4d__commentWrapper___1c14B .Comment-icp4d__buttonsBar___20TY0 .Comment-icp4d__cancelButton___Ox3_9, .Comment-icp4d__commentWrapper___1c14B .Comment-icp4d__buttonsBar___20TY0 .Comment-icp4d__submitButton___1JpUY {
+      margin-right: 1rem; }
+
+.Comment-icp4d__loading___1zoNA {
+  margin-top: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+  width: 3rem;
+  height: 3rem; }
+  .Comment-icp4d__loading___1zoNA > bx--loading {
+    width: 6rem;
+    height: 6rem; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.Comment__commentWrapper___AWqCf {
+  width: 100%; }
+  .Comment__commentWrapper___AWqCf.Comment__owned___3ukZ7:hover {
+    background-color: #F4F7FB; }
+    .Comment__commentWrapper___AWqCf.Comment__owned___3ukZ7:hover .Comment__commentHeaderWrapper___3hYm1 .Comment__commentButton___1AROx {
+      visibility: visible; }
+  .Comment__commentWrapper___AWqCf.Comment__selectedComment___uhMdu {
+    background-color: #F4F7FB; }
+    .Comment__commentWrapper___AWqCf.Comment__selectedComment___uhMdu .Comment__commentButton___1AROx {
+      visibility: visible; }
+  .Comment__commentWrapper___AWqCf.Comment__referencedComment___1wrX4 {
+    background-color: #F4F7FB; }
+  .Comment__commentWrapper___AWqCf .Comment__commentContentBlock___oLhs6 {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    -webkit-box-flex-direction: row;
+    -ms-flex-direction: row;
+    -webkit-box-align: start;
+            align-items: flex-start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    padding: 0.9rem 1.25rem; }
+  .Comment__commentWrapper___AWqCf .Comment__commentContentWrapper___3_fqi {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    -webkit-box-flex-direction: column;
+    -ms-flex-direction: column;
+    padding-left: 1.25rem;
+    width: 87%; }
+  .Comment__commentWrapper___AWqCf .Comment__commentHeaderWrapper___3hYm1 {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    -webkit-box-flex-direction: row;
+    -ms-flex-direction: row;
+    -webkit-box-align: center;
+            align-items: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    -webkit-box-pack: justify;
+            justify-content: space-between;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify; }
+    .Comment__commentWrapper___AWqCf .Comment__commentHeaderWrapper___3hYm1 .Comment__commentAuthor___bfK8E {
+      flex: 0 1 auto;
+      -webkit-box-flex: 0 1 auto;
+      -webkit-flex: 0 1 auto;
+      -ms-flex: 0 1 auto;
+      font-weight: 600;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap; }
+    .Comment__commentWrapper___AWqCf .Comment__commentHeaderWrapper___3hYm1 .Comment__commentTime___2NMDX {
+      flex: 1 0 auto;
+      -webkit-box-flex: 1 0 auto;
+      -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+      white-space: nowrap;
+      padding-left: 0.5rem;
+      font-size: 0.65rem;
+      color: #5A6872; }
+    .Comment__commentWrapper___AWqCf .Comment__commentHeaderWrapper___3hYm1 .Comment__commentButton___1AROx {
+      visibility: hidden;
+      margin: 0 0.125rem; }
+      .Comment__commentWrapper___AWqCf .Comment__commentHeaderWrapper___3hYm1 .Comment__commentButton___1AROx .Comment__iconStyle___1BsX4 {
+        fill: currentColor; }
+  .Comment__commentWrapper___AWqCf .Comment__commentTextWrapper___Pje67 {
+    padding-top: 0.3rem;
+    white-space: pre-line;
+    word-wrap: break-word; }
+  .Comment__commentWrapper___AWqCf .Comment__commentEditTextAreaContainer___a0rOD {
+    padding-top: 0.3rem;
+    width: 100%; }
+  .Comment__commentWrapper___AWqCf .Comment__buttonsBar___DA60S {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    -webkit-box-flex-direction: row;
+    -ms-flex-direction: row;
+    -webkit-box-align: center;
+            align-items: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    -webkit-box-pack: end;
+            justify-content: flex-end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    padding-top: 0.625rem; }
+    .Comment__commentWrapper___AWqCf .Comment__buttonsBar___DA60S .Comment__cancelButton___3eR3Z, .Comment__commentWrapper___AWqCf .Comment__buttonsBar___DA60S .Comment__submitButton___2J5dp {
+      margin-right: 1rem; }
+
+.Comment__loading___1Sgf_ {
+  margin-top: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+  width: 3rem;
+  height: 3rem; }
+  .Comment__loading___1Sgf_ > bx--loading {
+    width: 6rem;
+    height: 6rem; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.bx--skeleton__text {
+  background: #F6F6F6 !important; }
+  .bx--skeleton__text::before {
+    background: #FFFFFF !important; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.Timeline-icp4d__timeLine___3z0WA {
+  display: flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+          flex-direction: row;
+  -webkit-box-flex-direction: row;
+  -ms-flex-direction: row;
+  -webkit-box-align: center;
+          align-items: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  -webkit-box-pack: justify;
+          justify-content: space-between;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  padding: 1rem 1.25rem; }
+
+.Timeline-icp4d__dateTimeLineHeader___2LuYC {
+  white-space: nowrap;
+  text-align: center;
+  color: #595859; }
+
+.Timeline-icp4d__dateTimeLine___3VmGZ {
+  flex: 1 1 0;
+  -webkit-box-flex: 1 1 0;
+  -webkit-flex: 1 1 0;
+  -ms-flex: 1 1 0;
+  border-bottom: 0.125rem solid #8897A2;
+  margin: 0 0.5rem;
+  width: 100%; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.Timeline__timeLine___3EKZ6 {
+  display: flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+          flex-direction: row;
+  -webkit-box-flex-direction: row;
+  -ms-flex-direction: row;
+  -webkit-box-align: center;
+          align-items: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  -webkit-box-pack: justify;
+          justify-content: space-between;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  padding: 1rem 1.25rem; }
+
+.Timeline__dateTimeLineHeader___KD1hC {
+  white-space: nowrap;
+  text-align: center;
+  color: #5A6872; }
+
+.Timeline__dateTimeLine___2dCM2 {
+  flex: 1 1 0;
+  -webkit-box-flex: 1 1 0;
+  -webkit-flex: 1 1 0;
+  -ms-flex: 1 1 0;
+  border-bottom: 0.125rem solid #8897A2;
+  margin: 0 0.5rem;
+  width: 100%; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.Panel__mainContainer___OAJGE {
+  padding: 0.875rem;
+  padding-bottom: 0;
+  -webkit-transition: margin 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: margin 400ms cubic-bezier(0.25, 0.8, 0.075, 1); }
+
+.Panel__mainContainerShift___1eKB5 {
+  margin-right: 20rem;
+  -webkit-transition: margin 600ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: margin 600ms cubic-bezier(0.25, 0.8, 0.075, 1); }
+
+#contentNode.desktop-menu .Panel__rhsPanel___4dfq3 {
+  top: 50px; }
+
+.Panel__rhsPanel___4dfq3 {
+  background-color: #FFFFFF;
+  border-left: 1px solid #DFE3E6;
+  -webkit-box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.1);
+          box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.1);
+  top: 6.25rem;
+  bottom: 0;
+  width: 20rem;
+  right: 0;
+  z-index: 5;
+  position: fixed;
+  -webkit-transform: translateX(110%) translateZ(0);
+          transform: translateX(110%) translateZ(0);
+  -webkit-transition: -webkit-transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: -webkit-transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1), -webkit-transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1); }
+  .Panel__rhsPanel___4dfq3 .Panel__closePanelButton___3a8iC {
+    position: absolute;
+    top: 0.625rem;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%); }
+  .Panel__rhsPanel___4dfq3 .Panel__content___g8AMz {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    overflow-x: hidden;
+    width: 100%; }
+    .Panel__rhsPanel___4dfq3 .Panel__content___g8AMz > nav {
+      min-height: 3.25rem;
+      border-bottom: 1px solid #DFE3E6;
+      padding: 0.25rem 1.625rem 0; }
+      .Panel__rhsPanel___4dfq3 .Panel__content___g8AMz > nav > ul {
+        position: initial;
+        margin: 0;
+        -ms-flex-pack: distribute;
+            justify-content: space-around; }
+      .Panel__rhsPanel___4dfq3 .Panel__content___g8AMz > nav > ul > li {
+        margin: 0; }
+    .Panel__rhsPanel___4dfq3 .Panel__content___g8AMz > nav ~ div {
+      height: 100%;
+      overflow-x: auto; }
+
+.Panel__rhsPanelVisible___320YN {
+  -webkit-transform: translateX(0) translateZ(0);
+          transform: translateX(0) translateZ(0);
+  -webkit-transition: -webkit-transform 600ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: -webkit-transform 600ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: transform 600ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: transform 600ms cubic-bezier(0.25, 0.8, 0.075, 1), -webkit-transform 600ms cubic-bezier(0.25, 0.8, 0.075, 1); }
+
+.Panel__heading___iDbC_ {
+  font-size: 0.7em;
+  font-weight: 400;
+  margin-bottom: 5px; }
+
+.Panel__title___lYw1d {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 10px; }
+
+.Panel__subheading___1Bklu {
+  font-size: 0.7em;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  color: #5A6872; }
+
+.Panel__value___19AHl {
+  text-transform: capitalize;
+  font-weight: 400;
+  margin-bottom: 20px; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.bx--skeleton__text {
+  background: #F6F6F6 !important; }
+  .bx--skeleton__text::before {
+    background: #FFFFFF !important; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.Panel-icp4d__mainContainer___3FxfW {
+  padding: 0.875rem;
+  padding-bottom: 0;
+  -webkit-transition: margin 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: margin 400ms cubic-bezier(0.25, 0.8, 0.075, 1); }
+
+.Panel-icp4d__mainContainerShift___2Kmss {
+  margin-right: 20rem;
+  -webkit-transition: margin 600ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: margin 600ms cubic-bezier(0.25, 0.8, 0.075, 1); }
+
+#contentNode.desktop-menu .Panel-icp4d__rhsPanel___3MphH {
+  top: 50px; }
+
+.Panel-icp4d__rhsPanel___3MphH {
+  background-color: #FFFFFF;
+  border-left: 1px solid #F3F3F3;
+  -webkit-box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.1);
+          box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.1);
+  top: 6.25rem;
+  bottom: 0;
+  width: 20rem;
+  right: 0;
+  z-index: 5;
+  position: fixed;
+  -webkit-transform: translateX(110%) translateZ(0);
+          transform: translateX(110%) translateZ(0);
+  -webkit-transition: -webkit-transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: -webkit-transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1), -webkit-transform 400ms cubic-bezier(0.25, 0.8, 0.075, 1); }
+  .Panel-icp4d__rhsPanel___3MphH .Panel-icp4d__closePanelButton___3dFba {
+    position: absolute;
+    top: 0.625rem;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%); }
+  .Panel-icp4d__rhsPanel___3MphH .Panel-icp4d__content___23MHt {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    overflow-x: hidden;
+    width: 100%; }
+    .Panel-icp4d__rhsPanel___3MphH .Panel-icp4d__content___23MHt > nav {
+      min-height: 3.25rem;
+      border-bottom: 1px solid #F3F3F3;
+      padding: 0.25rem 1.625rem 0; }
+      .Panel-icp4d__rhsPanel___3MphH .Panel-icp4d__content___23MHt > nav > ul {
+        position: initial;
+        margin: 0;
+        -ms-flex-pack: distribute;
+            justify-content: space-around; }
+      .Panel-icp4d__rhsPanel___3MphH .Panel-icp4d__content___23MHt > nav > ul > li {
+        margin: 0; }
+    .Panel-icp4d__rhsPanel___3MphH .Panel-icp4d__content___23MHt > nav ~ div {
+      height: 100%;
+      overflow-x: auto; }
+
+.Panel-icp4d__rhsPanelVisible___mG6mx {
+  -webkit-transform: translateX(0) translateZ(0);
+          transform: translateX(0) translateZ(0);
+  -webkit-transition: -webkit-transform 600ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: -webkit-transform 600ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: transform 600ms cubic-bezier(0.25, 0.8, 0.075, 1);
+  transition: transform 600ms cubic-bezier(0.25, 0.8, 0.075, 1), -webkit-transform 600ms cubic-bezier(0.25, 0.8, 0.075, 1); }
+
+.Panel-icp4d__heading___3E50h {
+  font-size: 0.7em;
+  font-weight: 400;
+  margin-bottom: 5px; }
+
+.Panel-icp4d__title___mXAx4 {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 10px; }
+
+.Panel-icp4d__subheading___2HS2I {
+  font-size: 0.7em;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  color: #595859; }
+
+.Panel-icp4d__value___3nbJO {
+  text-transform: capitalize;
+  font-weight: 400;
+  margin-bottom: 20px; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.bx--skeleton__text {
+  background: #F6F6F6 !important; }
+  .bx--skeleton__text::before {
+    background: #FFFFFF !important; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.CommentsPanel-icp4d__commentsPanel___1D8ID h5 {
+  font-weight: normal; }
+
+.CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__loading___26Rkv {
+  margin-top: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+  width: 6rem;
+  height: 6rem; }
+  .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__loading___26Rkv > bx--loading {
+    width: 6rem;
+    height: 6rem; }
+
+.CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI {
+  width: 100%;
+  overflow-y: auto; }
+  .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__commentsContentWrapper___2rEJq {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    -webkit-box-flex-direction: column;
+    -ms-flex-direction: column; }
+  .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__inputAreaContainer___37GS3 {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    -webkit-box-flex-direction: column;
+    -ms-flex-direction: column;
+    padding: 2rem 1.25rem 1rem; }
+  .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__inputTextAreaContainer___3oyOQ {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    -webkit-box-flex-direction: row;
+    -ms-flex-direction: row;
+    -webkit-box-align: start;
+            align-items: flex-start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    width: 100%; }
+  .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__textAreaContainer___3Qcoj {
+    flex: 1 0 auto;
+    -webkit-box-flex: 1 0 auto;
+    -webkit-flex: 1 0 auto;
+    -ms-flex: 1 0 auto;
+    padding-left: 0.8rem;
+    width: 90%; }
+  .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__separatorWrapper___22ZsT {
+    padding: 1rem 1.25rem; }
+    .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__separatorWrapper___22ZsT .CommentsPanel-icp4d__mainSeparator___u1p5V {
+      border-bottom: 0.2rem solid #8897A2; }
+  .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__buttonsBar___3aaab {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    -webkit-box-flex-direction: row;
+    -ms-flex-direction: row;
+    -webkit-box-align: center;
+            align-items: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    -webkit-box-pack: end;
+            justify-content: flex-end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    padding-top: 0.625rem; }
+    .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__buttonsBar___3aaab .CommentsPanel-icp4d__cancelButton___1wjqv, .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__buttonsBar___3aaab .CommentsPanel-icp4d__submitButton___2XLX3 {
+      margin-right: 1rem; }
+  .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__buttonBarHiddenState___xQOx6 {
+    display: none; }
+  .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__commentsListWrapper___3m-7k {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    -webkit-box-flex-direction: column;
+    -ms-flex-direction: column;
+    padding-bottom: 2rem; }
+  .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__noCommentsWrapper___3CswB {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    -webkit-box-flex-direction: column;
+    -ms-flex-direction: column;
+    -webkit-box-align: center;
+            align-items: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    padding-top: 1rem; }
+    .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__noCommentsWrapper___3CswB > svg {
+      fill: #8897A2;
+      width: 5rem;
+      height: 5rem;
+      margin: auto;
+      display: block; }
+    .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__noCommentsWrapper___3CswB .CommentsPanel-icp4d__noCommentsText___3msdt {
+      padding-top: 0.5rem;
+      color: #595859; }
+  .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__disconnectLabelWrapper___23DSp {
+    margin: auto;
+    padding-top: 15rem;
+    text-align: center; }
+    .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__disconnectLabelWrapper___23DSp .CommentsPanel-icp4d__refreshButtonWrapper___UmK7q {
+      padding-top: 1rem; }
+  .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__spinnerWrapper___3nY2f {
+    display: block;
+    margin: auto;
+    width: 1.5rem;
+    padding-top: 10rem; }
+  .CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__commentsMainWrapper___3P4pI .CommentsPanel-icp4d__commentEditTextAreaContainer___1OeLP {
+    padding-top: 0.3rem;
+    width: 100%; }
+
+.CommentsPanel-icp4d__commentsPanel___1D8ID .CommentsPanel-icp4d__paletteSeparator___11KB5 {
+  height: 0.125rem;
+  background-color: #8897A2;
+  margin: 0 1.25rem; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+/*******************************************************************************
+ * Licensed Materials - Property of IBM
+ * (c) Copyright IBM Corporation 2016. All Rights Reserved.
+ *
+ * Note to U.S. Government Users Restricted Rights:
+ * Use, duplication or disclosure restricted by GSA ADP Schedule
+ * Contract with IBM Corp.
+ *******************************************************************************/
+.CommentsPanel__commentsPanel___216Ae h5 {
+  font-weight: normal; }
+
+.CommentsPanel__commentsPanel___216Ae .CommentsPanel__loading___3S3R- {
+  margin-top: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+  width: 6rem;
+  height: 6rem; }
+  .CommentsPanel__commentsPanel___216Ae .CommentsPanel__loading___3S3R- > bx--loading {
+    width: 6rem;
+    height: 6rem; }
+
+.CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 {
+  width: 100%;
+  overflow-y: auto; }
+  .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__commentsContentWrapper___3yO_N {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    -webkit-box-flex-direction: column;
+    -ms-flex-direction: column; }
+  .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__inputAreaContainer___CDn3q {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    -webkit-box-flex-direction: column;
+    -ms-flex-direction: column;
+    padding: 2rem 1.25rem 1rem; }
+  .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__inputTextAreaContainer___BGHFO {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    -webkit-box-flex-direction: row;
+    -ms-flex-direction: row;
+    -webkit-box-align: start;
+            align-items: flex-start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    width: 100%; }
+  .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__textAreaContainer___2_IIJ {
+    flex: 1 0 auto;
+    -webkit-box-flex: 1 0 auto;
+    -webkit-flex: 1 0 auto;
+    -ms-flex: 1 0 auto;
+    padding-left: 0.8rem;
+    width: 90%; }
+  .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__separatorWrapper___2sRZ8 {
+    padding: 1rem 1.25rem; }
+    .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__separatorWrapper___2sRZ8 .CommentsPanel__mainSeparator___2kkOt {
+      border-bottom: 0.2rem solid #8897A2; }
+  .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__buttonsBar___11v4o {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    -webkit-box-flex-direction: row;
+    -ms-flex-direction: row;
+    -webkit-box-align: center;
+            align-items: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    -webkit-box-pack: end;
+            justify-content: flex-end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    padding-top: 0.625rem; }
+    .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__buttonsBar___11v4o .CommentsPanel__cancelButton___3OIV5, .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__buttonsBar___11v4o .CommentsPanel__submitButton___1JbAq {
+      margin-right: 1rem; }
+  .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__buttonBarHiddenState___3iBl4 {
+    display: none; }
+  .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__commentsListWrapper___VISQb {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    -webkit-box-flex-direction: column;
+    -ms-flex-direction: column;
+    padding-bottom: 2rem; }
+  .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__noCommentsWrapper___1hYzX {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    -webkit-box-flex-direction: column;
+    -ms-flex-direction: column;
+    -webkit-box-align: center;
+            align-items: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    padding-top: 1rem; }
+    .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__noCommentsWrapper___1hYzX > svg {
+      fill: #8897A2;
+      width: 5rem;
+      height: 5rem;
+      margin: auto;
+      display: block; }
+    .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__noCommentsWrapper___1hYzX .CommentsPanel__noCommentsText___1Lz_g {
+      padding-top: 0.5rem;
+      color: #5A6872; }
+  .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__disconnectLabelWrapper___3inbU {
+    margin: auto;
+    padding-top: 15rem;
+    text-align: center; }
+    .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__disconnectLabelWrapper___3inbU .CommentsPanel__refreshButtonWrapper___hQStk {
+      padding-top: 1rem; }
+  .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__spinnerWrapper___2eTPX {
+    display: block;
+    margin: auto;
+    width: 1.5rem;
+    padding-top: 10rem; }
+  .CommentsPanel__commentsPanel___216Ae .CommentsPanel__commentsMainWrapper___-aDB4 .CommentsPanel__commentEditTextAreaContainer___2lNX4 {
+    padding-top: 0.3rem;
+    width: 100%; }
+
+.CommentsPanel__commentsPanel___216Ae .CommentsPanel__paletteSeparator___1YR6H {
+  height: 0.125rem;
+  background-color: #8897A2;
+  margin: 0 1.25rem; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.InfoPanel__infoPanel___2Ftua {
+  padding: 20px; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.bx--skeleton__text {
+  background: #F6F6F6 !important; }
+  .bx--skeleton__text::before {
+    background: #FFFFFF !important; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.InfoPanel-icp4d__infoPanel___uvFMg {
+  padding: 20px; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.ViewNotebookPage__notebookContainer___3Nnwp {
+  overflow: auto;
+  height: 100%; }
+  .ViewNotebookPage__notebookContainer___3Nnwp.ViewNotebookPage__visibleAlert___kB2H_ {
+    padding-top: 55px; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.bx--skeleton__text {
+  background: #F6F6F6 !important; }
+  .bx--skeleton__text::before {
+    background: #FFFFFF !important; }
+
+/*******************************************************************************
+* IBM Confidential
+* OCO Source Materials
+* 5737-C49, 5737-B37
+* (C) Copyright IBM Corp. 2018
+*
+* The source code for this program is not published or otherwise divested of
+* its trade secrets, irrespective of what has been deposited with the
+* U.S. Copyright Office.
+*******************************************************************************/
+
+.ViewNotebookPage-icp4d__notebookContainer___1zlRp {
+  overflow: auto;
+  height: 100%; }
+  .ViewNotebookPage-icp4d__notebookContainer___1zlRp.ViewNotebookPage-icp4d__visibleAlert___12D9c {
+    padding-top: 55px; }
+
+.LoadingIndicator__axLoadingIndicator___2JkR2 {
+  position: relative; }
+  .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__parentOverlay___3Y-oc + .LoadingIndicator__loadingOverlay___3z86H {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(223, 227, 230, 0.5); }
+  .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__parentOverlay___3Y-oc {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%); }
+  .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__small___caibm {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem; }
+    .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__small___caibm.LoadingIndicator__endless___734Vs {
+      width: initial;
+      height: initial; }
+    .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__small___caibm .LoadingIndicator__loadingMessage___3Tgql,
+    .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__small___caibm .LoadingIndicator__progressDigits___2NnIn {
+      display: none; }
+    .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__small___caibm .LoadingIndicator__loadingCircle___3Yf-h {
+      stroke: #5A6872; }
+  .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__middle___3lZo4 {
+    width: 3rem;
+    height: 3rem;
+    font-size: 1.25rem; }
+    .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__middle___3lZo4.LoadingIndicator__endless___734Vs {
+      width: initial;
+      height: initial; }
+    .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__middle___3lZo4 .LoadingIndicator__progressDigits___2NnIn {
+      top: 1.5rem;
+      left: 1.5rem;
+      font-size: 0.875rem;
+      line-height: 0.875; }
+    .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__middle___3lZo4 .LoadingIndicator__subTitle___11C8N {
+      font-size: 1rem; }
+  .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__large___3FPuH {
+    width: 7rem;
+    height: 7rem;
+    font-size: 1.5rem;
+    font-weight: 300; }
+    .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__large___3FPuH.LoadingIndicator__endless___734Vs {
+      width: initial;
+      height: initial; }
+    .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__large___3FPuH .LoadingIndicator__progressDigits___2NnIn {
+      top: 3.5rem;
+      left: 3.5rem;
+      font-size: 1.5rem;
+      line-height: 1.5rem; }
+    .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__large___3FPuH .LoadingIndicator__subTitle___11C8N {
+      font-size: 1rem; }
+  .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__infront___3Hni6 {
+    z-index: 79; }
+  .LoadingIndicator__axLoadingIndicator___2JkR2 .LoadingIndicator__loadingCircle___3Yf-h {
+    fill: transparent;
+    stroke: #41D6C3;
+    stroke-linecap: butt;
+    stroke-dasharray: 146;
+    stroke-dashoffset: 146; }
+    .LoadingIndicator__axLoadingIndicator___2JkR2 .LoadingIndicator__loadingCircle___3Yf-h circle {
+      stroke-dashoffset: inherit;
+      stroke: inherit; }
+  .LoadingIndicator__axLoadingIndicator___2JkR2 .LoadingIndicator__progressDigits___2NnIn {
+    position: absolute;
+    text-align: center;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+    -webkit-transition: opacity ease-out 0.25s;
+    transition: opacity ease-out 0.25s;
+    padding-top: 0.2em; }
+  .LoadingIndicator__axLoadingIndicator___2JkR2 .LoadingIndicator__loadingMessage___3Tgql {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    -webkit-transform: translate(-50%);
+            transform: translate(-50%);
+    padding-top: 0.5rem;
+    text-align: center;
+    white-space: pre; }
+  .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__none___iXEE4 .LoadingIndicator__animation___3lPcU {
+    visibility: none; }
+  .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__progress___2QbMo .LoadingIndicator__loadingCircle___3Yf-h {
+    -webkit-transform: rotate(-90deg);
+            transform: rotate(-90deg); }
+    .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__progress___2QbMo .LoadingIndicator__loadingCircle___3Yf-h circle {
+      -webkit-transition: stroke-dashoffset 3s cubic-bezier(0, 0, 0.25, 1);
+      transition: stroke-dashoffset 3s cubic-bezier(0, 0, 0.25, 1); }
+  .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__error___3pX2J {
+    height: 3rem;
+    width: 3rem;
+    display: inline-block; }
+    .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__error___3pX2J .LoadingIndicator__errorIcon____uOzw {
+      display: initial;
+      fill: #E71D32;
+      width: 3rem;
+      height: 3rem; }
+    .LoadingIndicator__axLoadingIndicator___2JkR2.LoadingIndicator__error___3pX2J .LoadingIndicator__loadingMessage___3Tgql {
+      padding-top: 4rem; }
+
+@keyframes LoadingIndicator__spin___wKrpZ {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  to {
+    -webkit-transform: rotate(359deg);
+            transform: rotate(359deg); } }
+
+@-webkit-keyframes LoadingIndicator__spin___wKrpZ {
+  from {
+    -webkit-transform: rotate(0deg); }
+  to {
+    -webkit-transform: rotate(359deg); } }
+
+@keyframes LoadingIndicator__rotate___zLsTT {
+  0% {
+    transform: rotate(0deg);
+    -webkit-transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg); } }
+
+@-webkit-keyframes LoadingIndicator__rotate___zLsTT {
+  0% {
+    transform: rotate(0deg);
+    -webkit-transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg); } }
+
+@keyframes LoadingIndicator__init-stroke___NFZ4n {
+  0% {
+    stroke-dashoffset: 146; }
+  100% {
+    stroke-dashoffset: 24; } }
+
+@-webkit-keyframes LoadingIndicator__init-stroke___NFZ4n {
+  0% {
+    stroke-dashoffset: 146; }
+  100% {
+    stroke-dashoffset: 24; } }
+
+.bx--skeleton__text {
+  background: #F6F6F6 !important; }
+  .bx--skeleton__text::before {
+    background: #FFFFFF !important; }
+
+.LoadingIndicator-icp4d__axLoadingIndicator___w0hOA {
+  position: relative; }
+  .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__parentOverlay___2zYwD + .LoadingIndicator-icp4d__loadingOverlay___3k3IS {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(243, 243, 243, 0.5); }
+  .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__parentOverlay___2zYwD {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%); }
+  .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__small___X65hp {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem; }
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__small___X65hp.LoadingIndicator-icp4d__endless___1GImf {
+      width: initial;
+      height: initial; }
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__small___X65hp .LoadingIndicator-icp4d__loadingMessage___12BbA,
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__small___X65hp .LoadingIndicator-icp4d__progressDigits___1N0vJ {
+      display: none; }
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__small___X65hp .LoadingIndicator-icp4d__loadingCircle___1inez {
+      stroke: #5A6872; }
+  .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__middle___1E5Dk {
+    width: 3rem;
+    height: 3rem;
+    font-size: 1.25rem; }
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__middle___1E5Dk.LoadingIndicator-icp4d__endless___1GImf {
+      width: initial;
+      height: initial; }
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__middle___1E5Dk .LoadingIndicator-icp4d__progressDigits___1N0vJ {
+      top: 1.5rem;
+      left: 1.5rem;
+      font-size: 0.875rem;
+      line-height: 0.875; }
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__middle___1E5Dk .LoadingIndicator-icp4d__subTitle___7FSr9 {
+      font-size: 1rem; }
+  .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__large___vZ3E1 {
+    width: 7rem;
+    height: 7rem;
+    font-size: 1.5rem;
+    font-weight: 300; }
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__large___vZ3E1.LoadingIndicator-icp4d__endless___1GImf {
+      width: initial;
+      height: initial; }
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__large___vZ3E1 .LoadingIndicator-icp4d__progressDigits___1N0vJ {
+      top: 3.5rem;
+      left: 3.5rem;
+      font-size: 1.5rem;
+      line-height: 1.5rem; }
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__large___vZ3E1 .LoadingIndicator-icp4d__subTitle___7FSr9 {
+      font-size: 1rem; }
+  .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__infront___KIaP8 {
+    z-index: 79; }
+  .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA .LoadingIndicator-icp4d__loadingCircle___1inez {
+    fill: transparent;
+    stroke: #DC267F;
+    stroke-linecap: butt;
+    stroke-dasharray: 146;
+    stroke-dashoffset: 146; }
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA .LoadingIndicator-icp4d__loadingCircle___1inez circle {
+      stroke-dashoffset: inherit;
+      stroke: inherit; }
+  .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA .LoadingIndicator-icp4d__progressDigits___1N0vJ {
+    position: absolute;
+    text-align: center;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+    -webkit-transition: opacity ease-out 0.25s;
+    transition: opacity ease-out 0.25s;
+    padding-top: 0.2em; }
+  .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA .LoadingIndicator-icp4d__loadingMessage___12BbA {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    -webkit-transform: translate(-50%);
+            transform: translate(-50%);
+    padding-top: 0.5rem;
+    text-align: center;
+    white-space: pre; }
+  .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__none___32Rm9 .LoadingIndicator-icp4d__animation___NZoJT {
+    visibility: none; }
+  .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__progress___3p0e0 .LoadingIndicator-icp4d__loadingCircle___1inez {
+    -webkit-transform: rotate(-90deg);
+            transform: rotate(-90deg); }
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__progress___3p0e0 .LoadingIndicator-icp4d__loadingCircle___1inez circle {
+      -webkit-transition: stroke-dashoffset 3s cubic-bezier(0, 0, 0.25, 1);
+      transition: stroke-dashoffset 3s cubic-bezier(0, 0, 0.25, 1); }
+  .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__error___3Esl3 {
+    height: 3rem;
+    width: 3rem;
+    display: inline-block; }
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__error___3Esl3 .LoadingIndicator-icp4d__errorIcon___ZSjqc {
+      display: initial;
+      fill: #E62325;
+      width: 3rem;
+      height: 3rem; }
+    .LoadingIndicator-icp4d__axLoadingIndicator___w0hOA.LoadingIndicator-icp4d__error___3Esl3 .LoadingIndicator-icp4d__loadingMessage___12BbA {
+      padding-top: 4rem; }
+
+@keyframes LoadingIndicator-icp4d__spin___TZigw {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  to {
+    -webkit-transform: rotate(359deg);
+            transform: rotate(359deg); } }
+
+@-webkit-keyframes LoadingIndicator-icp4d__spin___TZigw {
+  from {
+    -webkit-transform: rotate(0deg); }
+  to {
+    -webkit-transform: rotate(359deg); } }
+
+@keyframes LoadingIndicator-icp4d__rotate___OVLQr {
+  0% {
+    transform: rotate(0deg);
+    -webkit-transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg); } }
+
+@-webkit-keyframes LoadingIndicator-icp4d__rotate___OVLQr {
+  0% {
+    transform: rotate(0deg);
+    -webkit-transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg); } }
+
+@keyframes LoadingIndicator-icp4d__init-stroke___3rXEx {
+  0% {
+    stroke-dashoffset: 146; }
+  100% {
+    stroke-dashoffset: 24; } }
+
+@-webkit-keyframes LoadingIndicator-icp4d__init-stroke___3rXEx {
+  0% {
+    stroke-dashoffset: 146; }
+  100% {
+    stroke-dashoffset: 24; } }
